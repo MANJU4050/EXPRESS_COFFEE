@@ -13,7 +13,7 @@
     justify-content: flex-start;
     align-items: center;
     width: 100%;
-    background-image: url(images/background/wall.png);
+    background-image: url("images/background/wall.png");
     background-repeat: no-repeat;
     background-size: cover;
    }
