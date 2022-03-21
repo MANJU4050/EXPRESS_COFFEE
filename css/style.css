@@ -13,7 +13,7 @@
     justify-content: flex-start;
     align-items: center;
     width: 100%;
-    background-image: url("/images/background/wall.png");
+    background-image: url("./images/background/wall.png");
     background-repeat: no-repeat;
     background-size: cover;
    }
@@ -106,7 +106,7 @@
 /******************************************* brands section ************************************************/
 .brnd{
     height: 840px;
-    background-image: url("/images/background/dark1.png");
+    background-image: url("./images/background/dark1.png");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -204,7 +204,7 @@
     justify-content: space-between;
     align-items: center;
     background: rgb(121,211,48);
-    background-image: url("/images/background/coffee_spices1.png");
+    background-image: url("./images/background/coffee_spices1.png");
 }
 
 .types-1{
@@ -314,7 +314,7 @@
 /************************************************* order section **********************************************/
 
 .odr{
-    background-image: url("/images/background/coffee_book1.png");
+    background-image: url("./images/background/coffee_book1.png");
     background-size: cover;
     background-repeat: no-repeat;
     height: 800px;
@@ -360,7 +360,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: stretch;
-    background-image: url("/images/background/espresso.jpg");
+    background-image: url("./images/background/espresso.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
